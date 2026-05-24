@@ -1,0 +1,45 @@
+---
+type: artifact-package
+status: active
+source_note: "[[X Feedback as a Feature Factory for Hermes Agents]]"
+source_url: "https://x.com/Saboo_Shubham_/status/2052601648074383576"
+score: 9
+artifact_tracks: [prototype, infographic, skill]
+improvement_cadence: nightly
+last_improved: 2026-05-24
+tags: [artifact-package, hermes-agent, feedback-loop, ai-agents]
+---
+
+# Artifact Package: X Feedback Feature Factory
+
+Source: [[X Feedback as a Feature Factory for Hermes Agents]]
+
+## Why this matters
+The source note is proof of a powerful operating loop: public X feedback becomes a Hermes feature in hours, then the new feature (`hermes profile create <name> --no-skills`) lets Vinay spin up focused blank-slate agents for future experiments.
+
+## Artifact score
+**9/10** — highly agent-relevant, repeatable, visible to the public, and directly useful for Vinay's agent/product workflows.
+
+## Generated artifacts
+- Prototype: [[../../Prototypes/X Feedback Feature Factory/README|X Feedback Feature Factory prototype]] (`index.html`)
+- Infographic: [[../../Infographics/X Feedback Feature Factory Loop|X Feedback Feature Factory Loop]]
+- Skill draft: [[../../Skills/public-feedback-to-agent-feature/SKILL|public-feedback-to-agent-feature skill draft]]
+- Improvement loop: [[../../Improvement-Loops/X Feedback Feature Factory Loop|X Feedback Feature Factory Loop]]
+
+## Prototype brief
+A triage board for turning X comments into agent feature tickets, blank-slate profile experiments, shipped changes, and follow-up posts.
+
+## Infographic brief
+A flywheel: listen → classify → isolate agent profile → implement → ship → publish proof → collect next feedback.
+
+## Skill candidate
+Draft only for now. It overlaps with `hermes-agent`, `x-intel`, and `x-artifact-factory`, but it may become valuable if Vinay repeatedly wants public comments turned into product backlog items.
+
+## Improvement backlog
+- Add fields for effort/risk/confidence scoring.
+- Add a “blank-slate agent recipe” template for `hermes profile create <name> --no-skills` experiments.
+- Connect shipped features back to X source notes and commits.
+- Add a weekly dashboard query for feedback-derived features.
+
+## Change log
+- 2026-05-24: Created package, prototype, infographic, skill draft, and improvement loop.

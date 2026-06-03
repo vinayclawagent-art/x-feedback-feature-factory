@@ -6,7 +6,8 @@ source_url: "https://x.com/Saboo_Shubham_/status/2052601648074383576"
 score: 9
 artifact_tracks: [prototype, infographic, skill]
 improvement_cadence: nightly
-last_improved: 2026-05-24
+last_improved: 2026-06-02
+github_repo: "https://github.com/vinayclawagent-art/x-feedback-feature-factory"
 tags: [artifact-package, hermes-agent, feedback-loop, ai-agents]
 ---
 
@@ -22,6 +23,7 @@ The source note is proof of a powerful operating loop: public X feedback becomes
 
 ## Generated artifacts
 - Prototype: [[../../Prototypes/X Feedback Feature Factory/README|X Feedback Feature Factory prototype]] (`index.html`)
+- Template: [[../../Prototypes/X Feedback Feature Factory/Blank-Profile Experiment Template|Blank-Profile Experiment Template]]
 - Infographic: [[../../Infographics/X Feedback Feature Factory Loop|X Feedback Feature Factory Loop]]
 - Skill draft: [[../../Skills/public-feedback-to-agent-feature/SKILL|public-feedback-to-agent-feature skill draft]]
 - Improvement loop: [[../../Improvement-Loops/X Feedback Feature Factory Loop|X Feedback Feature Factory Loop]]
@@ -37,9 +39,14 @@ Draft only for now. It overlaps with `hermes-agent`, `x-intel`, and `x-artifact-
 
 ## Improvement backlog
 - Add fields for effort/risk/confidence scoring.
-- Add a “blank-slate agent recipe” template for `hermes profile create <name> --no-skills` experiments.
+- Add a “blank-slate agent recipe” template for `hermes profile create <name> --no-skills` experiments. ✅ Done in [[../../Prototypes/X Feedback Feature Factory/Blank-Profile Experiment Template|Blank-Profile Experiment Template]].
 - Connect shipped features back to X source notes and commits.
 - Add a weekly dashboard query for feedback-derived features.
 
 ## Change log
 - 2026-05-24: Created package, prototype, infographic, skill draft, and improvement loop.
+- 2026-06-02: Added a blank-profile experiment template so public feedback can be tested in an isolated Hermes profile before default behavior changes.
+
+## GitHub repo
+
+https://github.com/vinayclawagent-art/x-feedback-feature-factory

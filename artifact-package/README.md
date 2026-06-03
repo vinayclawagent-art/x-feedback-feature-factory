@@ -24,6 +24,7 @@ The source note is proof of a powerful operating loop: public X feedback becomes
 ## Generated artifacts
 - Prototype: [[../../Prototypes/X Feedback Feature Factory/README|X Feedback Feature Factory prototype]] (`index.html`)
 - Template: [[../../Prototypes/X Feedback Feature Factory/Blank-Profile Experiment Template|Blank-Profile Experiment Template]]
+- Proof post template: [[../../Prototypes/X Feedback Feature Factory/Follow-Up Proof Post Template|Follow-Up Proof Post Template]]
 - Infographic: [[../../Infographics/X Feedback Feature Factory Loop|X Feedback Feature Factory Loop]]
 - Skill draft: [[../../Skills/public-feedback-to-agent-feature/SKILL|public-feedback-to-agent-feature skill draft]]
 - Improvement loop: [[../../Improvement-Loops/X Feedback Feature Factory Loop|X Feedback Feature Factory Loop]]
@@ -46,6 +47,7 @@ Draft only for now. It overlaps with `hermes-agent`, `x-intel`, and `x-artifact-
 ## Change log
 - 2026-05-24: Created package, prototype, infographic, skill draft, and improvement loop.
 - 2026-06-02: Added a blank-profile experiment template so public feedback can be tested in an isolated Hermes profile before default behavior changes.
+- 2026-06-03: Added a follow-up proof-post template to make shipped feedback-derived features externally legible.
 
 ## GitHub repo
 

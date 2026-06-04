@@ -10,7 +10,8 @@ Demonstrates a public-feedback-to-agent-feature triage board: capture, classify,
 
 - [[Feature-Intake Scoring Template]] — score public proof, impact, effort, confidence, and regression risk before building.
 - [[Blank-Profile Experiment Template]] — run the smallest reproduction with `hermes profile create <slug> --no-skills`, capture proof, and draft the follow-up post.
+- [[Weekly Feedback Dashboard Query]] — weekly dashboard spec for recent feedback candidates, shipped proof, blank-profile tests, and proof-post gaps.
 
 ## Next iteration
 
-Use both templates on one live X feedback item, then add the resulting score, sandbox command, commit link, and public proof reply to this prototype folder.
+Run the weekly dashboard query on the next seven days of X feedback, then add the top 3 scored rows, sandbox commands, commit links, and proof replies to this prototype folder or `_Dashboards/Artifact-Factory.md`.

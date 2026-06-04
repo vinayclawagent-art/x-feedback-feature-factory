@@ -6,7 +6,7 @@ source_url: "https://x.com/Saboo_Shubham_/status/2052601648074383576"
 score: 9
 artifact_tracks: [prototype, infographic, skill]
 improvement_cadence: nightly
-last_improved: 2026-06-02
+last_improved: 2026-06-04
 github_repo: "https://github.com/vinayclawagent-art/x-feedback-feature-factory"
 tags: [artifact-package, hermes-agent, feedback-loop, ai-agents]
 ---
@@ -26,6 +26,7 @@ The source note is proof of a powerful operating loop: public X feedback becomes
 - Template: [[../../Prototypes/X Feedback Feature Factory/Blank-Profile Experiment Template|Blank-Profile Experiment Template]]
 - Proof post template: [[../../Prototypes/X Feedback Feature Factory/Follow-Up Proof Post Template|Follow-Up Proof Post Template]]
 - Worked intake example: [[../../Prototypes/X Feedback Feature Factory/Worked Intake Example - Blank Profile Feature|Worked Intake Example - Blank Profile Feature]]
+- Weekly dashboard query: [[../../Prototypes/X Feedback Feature Factory/Weekly Feedback Dashboard Query|Weekly Feedback Dashboard Query]]
 - Infographic: [[../../Infographics/X Feedback Feature Factory Loop|X Feedback Feature Factory Loop]]
 - Skill draft: [[../../Skills/public-feedback-to-agent-feature/SKILL|public-feedback-to-agent-feature skill draft]]
 - Improvement loop: [[../../Improvement-Loops/X Feedback Feature Factory Loop|X Feedback Feature Factory Loop]]
@@ -43,13 +44,14 @@ Draft only for now. It overlaps with `hermes-agent`, `x-intel`, and `x-artifact-
 - Apply the scoring template to the original blank-profile feature. ✅ Done in [[../../Prototypes/X Feedback Feature Factory/Worked Intake Example - Blank Profile Feature|Worked Intake Example - Blank Profile Feature]].
 - Add a “blank-slate agent recipe” template for `hermes profile create <name> --no-skills` experiments. ✅ Done in [[../../Prototypes/X Feedback Feature Factory/Blank-Profile Experiment Template|Blank-Profile Experiment Template]].
 - Connect shipped features back to X source notes and commits.
-- Add a weekly dashboard query for feedback-derived features.
+- Add a weekly dashboard query for feedback-derived features. ✅ Done via [[../../Prototypes/X Feedback Feature Factory/Weekly Feedback Dashboard Query|Weekly Feedback Dashboard Query]].
 
 ## Change log
 - 2026-05-24: Created package, prototype, infographic, skill draft, and improvement loop.
 - 2026-06-02: Added a blank-profile experiment template so public feedback can be tested in an isolated Hermes profile before default behavior changes.
 - 2026-06-03: Added a follow-up proof-post template to make shipped feedback-derived features externally legible.
 - 2026-06-03: Added a worked intake example scoring the original blank-profile feature as the canonical end-to-end exemplar.
+- 2026-06-04: Added a weekly feedback dashboard query/spec for scoring recent X feedback, blank-profile tests, shipped proof, and proof-post gaps.
 
 ## GitHub repo
 

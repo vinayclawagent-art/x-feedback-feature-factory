@@ -12,7 +12,8 @@ Demonstrates a public-feedback-to-agent-feature triage board: capture, classify,
 - [[Blank-Profile Experiment Template]] — run the smallest reproduction with `hermes profile create <slug> --no-skills`, capture proof, and draft the follow-up post.
 - [[Weekly Feedback Dashboard Query]] — weekly dashboard spec for recent feedback candidates, shipped proof, blank-profile tests, and proof-post gaps.
 - [[Feedback Dashboard Seed Rows]] — first concrete dashboard pass with three recent X-intel candidates, scores, experiment links, and next actions.
+- [[Repo Readiness Experiment Proof Attachment]] — fillable evidence block for the next blank-profile or repo-readiness test; keeps the loop concrete without inventing proof before a real run.
 
 ## Next iteration
 
-Run the weekly dashboard query on the next seven days of X feedback, then promote only rows with concrete sandbox commands, commit links, and proof replies into `_Dashboards/Artifact-Factory.md`.
+Fill [[Repo Readiness Experiment Proof Attachment]] for the highest-scoring seed row, then promote only rows with concrete sandbox commands, commit links, and proof replies into `_Dashboards/Artifact-Factory.md`.

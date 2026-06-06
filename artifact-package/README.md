@@ -6,7 +6,7 @@ source_url: "https://x.com/Saboo_Shubham_/status/2052601648074383576"
 score: 9
 artifact_tracks: [prototype, infographic, skill]
 improvement_cadence: nightly
-last_improved: 2026-06-04
+last_improved: 2026-06-06
 github_repo: "https://github.com/vinayclawagent-art/x-feedback-feature-factory"
 tags: [artifact-package, hermes-agent, feedback-loop, ai-agents]
 ---
@@ -28,6 +28,7 @@ The source note is proof of a powerful operating loop: public X feedback becomes
 - Worked intake example: [[../../Prototypes/X Feedback Feature Factory/Worked Intake Example - Blank Profile Feature|Worked Intake Example - Blank Profile Feature]]
 - Weekly dashboard query: [[../../Prototypes/X Feedback Feature Factory/Weekly Feedback Dashboard Query|Weekly Feedback Dashboard Query]]
 - Feedback dashboard seed rows: [[../../Prototypes/X Feedback Feature Factory/Feedback Dashboard Seed Rows|Feedback Dashboard Seed Rows]]
+- Repo-readiness proof attachment: [[../../Prototypes/X Feedback Feature Factory/Repo Readiness Experiment Proof Attachment|Repo Readiness Experiment Proof Attachment]]
 - Infographic: [[../../Infographics/X Feedback Feature Factory Loop|X Feedback Feature Factory Loop]]
 - Skill draft: [[../../Skills/public-feedback-to-agent-feature/SKILL|public-feedback-to-agent-feature skill draft]]
 - Improvement loop: [[../../Improvement-Loops/X Feedback Feature Factory Loop|X Feedback Feature Factory Loop]]
@@ -47,6 +48,7 @@ Draft only for now. It overlaps with `hermes-agent`, `x-intel`, and `x-artifact-
 - Connect shipped features back to X source notes and commits.
 - Add a weekly dashboard query for feedback-derived features. ✅ Done via [[../../Prototypes/X Feedback Feature Factory/Weekly Feedback Dashboard Query|Weekly Feedback Dashboard Query]].
 - Add the first three scored dashboard rows from recent X-intel notes. ✅ Done via [[../../Prototypes/X Feedback Feature Factory/Feedback Dashboard Seed Rows|Feedback Dashboard Seed Rows]].
+- Attach proof to the highest-scoring seed row before promotion. ✅ Template ready via [[../../Prototypes/X Feedback Feature Factory/Repo Readiness Experiment Proof Attachment|Repo Readiness Experiment Proof Attachment]]; fill it during the next real run.
 
 ## Change log
 - 2026-05-24: Created package, prototype, infographic, skill draft, and improvement loop.
@@ -55,6 +57,7 @@ Draft only for now. It overlaps with `hermes-agent`, `x-intel`, and `x-artifact-
 - 2026-06-03: Added a worked intake example scoring the original blank-profile feature as the canonical end-to-end exemplar.
 - 2026-06-04: Added a weekly feedback dashboard query/spec for scoring recent X feedback, blank-profile tests, shipped proof, and proof-post gaps.
 - 2026-06-04: Added Feedback Dashboard Seed Rows with three scored candidates and clear promote/defer decisions.
+- 2026-06-06: Added a repo-readiness proof attachment so the next seed-row experiment captures commands, evidence, decision, and proof-post handoff without fabricating live results.
 
 ## GitHub repo
 

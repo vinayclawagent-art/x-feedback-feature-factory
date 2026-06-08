@@ -4,7 +4,7 @@ status: active
 source_package: "[[../Generated-Packages/X Feedback Feature Factory/README|X Feedback Feature Factory]]"
 source_note: "[[../../Tools/X Feedback as a Feature Factory for Hermes Agents|X Feedback as a Feature Factory for Hermes Agents]]"
 cadence: nightly
-last_improved: 2026-06-07
+last_improved: 2026-06-08
 next_focus: "During the next real blank-profile or repo-readiness run, fill the Repo Readiness Experiment Proof Attachment and Repo Readiness Promotion Decision Card for the highest-scoring seed row before promoting, piloting, iterating, or holding it."
 tags: [improvement-loop, hermes-agent, public-feedback]
 ---
@@ -48,3 +48,7 @@ Build a repeatable, visible workflow where public X feedback becomes scoped Herm
 - 2026-06-04: Added follow-up proof rule: every shipped feedback-derived fix should include a before/after screenshot or reproduction note.
 - 2026-06-06: Tightened the next run around one fillable evidence attachment instead of accepting an unverified promotion.
 - 2026-06-07: Prepared the promotion decision card; still awaiting a real experiment before skill promotion or public proof-post claims.
+
+
+## 2026-06-08 improvement
+- Added [[../Prototypes/x-feedback-feature-factory/Repo Readiness Operator Trial Packet|Repo Readiness Operator Trial Packet]] to sequence the existing checklist/evidence/decision artifacts into one operator-ready real-trial packet. Prepared only; no validation proof claimed.

@@ -51,4 +51,4 @@ Build a repeatable, visible workflow where public X feedback becomes scoped Herm
 
 
 ## 2026-06-08 improvement
-- Added [[../Prototypes/x-feedback-feature-factory/Repo Readiness Operator Trial Packet|Repo Readiness Operator Trial Packet]] to sequence the existing checklist/evidence/decision artifacts into one operator-ready real-trial packet. Prepared only; no validation proof claimed.
+- Added [[../Prototypes/X Feedback Feature Factory/Repo Readiness Operator Trial Packet|Repo Readiness Operator Trial Packet]] to sequence the existing checklist/evidence/decision artifacts into one operator-ready real-trial packet. Prepared only; no validation proof claimed.

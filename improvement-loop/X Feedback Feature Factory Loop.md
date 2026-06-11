@@ -4,8 +4,8 @@ status: active
 source_package: "[[../Generated-Packages/X Feedback Feature Factory/README|X Feedback Feature Factory]]"
 source_note: "[[../../Tools/X Feedback as a Feature Factory for Hermes Agents|X Feedback as a Feature Factory for Hermes Agents]]"
 cadence: nightly
-last_improved: 2026-06-08
-next_focus: "During the next real blank-profile or repo-readiness run, fill the Repo Readiness Experiment Proof Attachment and Repo Readiness Promotion Decision Card for the highest-scoring seed row before promoting, piloting, iterating, or holding it."
+last_improved: 2026-06-11
+next_focus: "During the next real blank-profile or repo-readiness run, fill the Repo Readiness Experiment Proof Attachment, Repo Readiness Promotion Decision Card, and Repo Readiness Post-Trial Debrief Template for the highest-scoring seed row before patching README, prototype, skill-draft, or public proof-post wording."
 tags: [improvement-loop, hermes-agent, public-feedback]
 ---
 
@@ -20,6 +20,7 @@ Build a repeatable, visible workflow where public X feedback becomes scoped Herm
 - [[../Prototypes/X Feedback Feature Factory/Weekly Feedback Dashboard Query|Weekly Feedback Dashboard Query]]
 - [[../Prototypes/X Feedback Feature Factory/Feedback Dashboard Seed Rows|Feedback Dashboard Seed Rows]]
 - [[../Prototypes/X Feedback Feature Factory/Repo Readiness Promotion Decision Card|Repo Readiness Promotion Decision Card]]
+- [[../Prototypes/X Feedback Feature Factory/Repo Readiness Post-Trial Debrief Template|Repo Readiness Post-Trial Debrief Template]]
 - [[../Infographics/X Feedback Feature Factory Loop|Infographic]]
 - [[../Skills/public-feedback-to-agent-feature/SKILL|Skill draft]]
 
@@ -31,7 +32,8 @@ Build a repeatable, visible workflow where public X feedback becomes scoped Herm
 5. Add top dashboard rows from a recent X-intel scan. ✅ Done via [[../Prototypes/X Feedback Feature Factory/Feedback Dashboard Seed Rows|Feedback Dashboard Seed Rows]].
 6. Add a proof attachment for the next seed-row experiment. ✅ Done via [[../Prototypes/X Feedback Feature Factory/Repo Readiness Experiment Proof Attachment|Repo Readiness Experiment Proof Attachment]].
 7. Add a promotion decision card for the next proof-backed run. ✅ Done via [[../Prototypes/X Feedback Feature Factory/Repo Readiness Promotion Decision Card|Repo Readiness Promotion Decision Card]].
-8. Revisit whether the skill draft should be promoted after one live use.
+8. Add a post-trial debrief template that turns the next real run into patch decisions. ✅ Done via [[../Prototypes/X Feedback Feature Factory/Repo Readiness Post-Trial Debrief Template|Repo Readiness Post-Trial Debrief Template]].
+9. Revisit whether the skill draft should be promoted after one live use.
 
 ## Latest useful change
 - 2026-05-24: Created the prototype board and flywheel infographic.
@@ -43,6 +45,7 @@ Build a repeatable, visible workflow where public X feedback becomes scoped Herm
 - 2026-06-04: Added [[../Prototypes/X Feedback Feature Factory/Feedback Dashboard Seed Rows|Feedback Dashboard Seed Rows]] with three recent candidate rows and promote/defer decisions.
 - 2026-06-06: Added [[../Prototypes/X Feedback Feature Factory/Repo Readiness Experiment Proof Attachment|Repo Readiness Experiment Proof Attachment]] so the next seed-row run can attach real commands, evidence, decision, and follow-up proof.
 - 2026-06-07: Added [[../Prototypes/X Feedback Feature Factory/Repo Readiness Promotion Decision Card|Repo Readiness Promotion Decision Card]] so the next real run resolves to promote-to-feature, pilot-only, iterate, or hold without fabricating shipped proof.
+- 2026-06-11: Added [[../Prototypes/X Feedback Feature Factory/Repo Readiness Post-Trial Debrief Template|Repo Readiness Post-Trial Debrief Template]] so the next real run produces explicit patch decisions before any README, prototype, skill, or proof-post wording changes.
 
 ## Nightly improvement log
 - 2026-06-04: Added follow-up proof rule: every shipped feedback-derived fix should include a before/after screenshot or reproduction note.
@@ -52,3 +55,9 @@ Build a repeatable, visible workflow where public X feedback becomes scoped Herm
 
 ## 2026-06-08 improvement
 - Added [[../Prototypes/X Feedback Feature Factory/Repo Readiness Operator Trial Packet|Repo Readiness Operator Trial Packet]] to sequence the existing checklist/evidence/decision artifacts into one operator-ready real-trial packet. Prepared only; no validation proof claimed.
+
+## 2026-06-11 improvement
+- Added [[../Prototypes/X Feedback Feature Factory/Repo Readiness Post-Trial Debrief Template|Repo Readiness Post-Trial Debrief Template]] as the after-action gate for the next real repo-readiness run. Template-ready only; no validation proof claimed.
+
+## Next focus
+- During the next real blank-profile or repo-readiness run, fill [[../Prototypes/X Feedback Feature Factory/Repo Readiness Experiment Proof Attachment|Repo Readiness Experiment Proof Attachment]], [[../Prototypes/X Feedback Feature Factory/Repo Readiness Promotion Decision Card|Repo Readiness Promotion Decision Card]], and [[../Prototypes/X Feedback Feature Factory/Repo Readiness Post-Trial Debrief Template|Repo Readiness Post-Trial Debrief Template]] for the highest-scoring seed row before patching README, prototype, skill-draft, or public proof-post wording.
